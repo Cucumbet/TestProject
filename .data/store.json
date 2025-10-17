@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "id": "proj_1760699456428",
+      "name": "adadada",
+      "createdAt": "2025-10-17T11:10:56.428Z",
+      "updatedAt": "2025-10-17T11:10:56.428Z"
+    }
+  ],
+  "runs": [
+    {
+      "id": "run_1760699577020",
+      "projectId": "proj_1760699456428",
+      "status": "succeeded",
+      "startedAt": "2025-10-17T11:12:57.020Z",
+      "tables": [],
+      "logs": [
+        {
+          "level": "info",
+          "message": "Run created",
+          "ts": "2025-10-17T11:12:57.020Z"
+        },
+        {
+          "level": "info",
+          "message": "Execution started",
+          "ts": "2025-10-17T11:12:57.274Z"
+        },
+        {
+          "level": "info",
+          "message": "Execution completed",
+          "ts": "2025-10-17T11:12:58.778Z"
+        }
+      ],
+      "finishedAt": "2025-10-17T11:12:58.777Z"
+    }
+  ]
+}
